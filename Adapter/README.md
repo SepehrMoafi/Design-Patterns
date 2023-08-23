@@ -14,7 +14,7 @@ This repository provides clear and illustrative examples of the Adapter Design P
 
 In this example, the Adapter Pattern is used to adapt an existing `Rectangle` class to work with a new `Triangle` class. The classes have different interfaces for area calculation. The `RectangleAdapter` is introduced to make the `Rectangle` class compatible with the `Triangle` interface.
 
-[Go to Simple Example](/Simple Example/Usage.php)
+[Go to Simple Example](/Simple-Example/Usage.php)
 
 ---
 
