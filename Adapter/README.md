@@ -14,7 +14,7 @@ This repository provides clear and illustrative examples of the Adapter Design P
 
 In this example, the Adapter Pattern is used to adapt an existing `Rectangle` class to work with a new `Triangle` class. The classes have different interfaces for area calculation. The `RectangleAdapter` is introduced to make the `Rectangle` class compatible with the `Triangle` interface.
 
-[Go to Simple Example](/Simple%20Example/Use.php)
+[Go to Simple Example](/Adapter/Simple%20Example/Use.php)
 
 ---
 
@@ -22,7 +22,7 @@ In this example, the Adapter Pattern is used to adapt an existing `Rectangle` cl
 
 In this example, the Adapter Pattern is employed to convert distances from kilometers to miles. A legacy `KilometerDistanceCalculator` class calculates distances in kilometers, while a new interface `DistanceCalculator` expects distances in miles. The `KilometerToMileAdapter` is created to convert distances and adapt the legacy code to the new interface.
 
-[Go to Complex Example](/complex-example.php)
+[Go to Complex Example](/Adapter/Complex%20Example/Usage.php)
 
 ---
 
